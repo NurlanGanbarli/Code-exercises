@@ -1,0 +1,11 @@
+{
+  "name": "code-exercises",
+  "version": "1.0.0",
+  "description": "algorithm exercises",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nurlan Ganbarli",
+  "license": "ISC"
+}
